@@ -8,4 +8,5 @@ int main()
    return 0;
    //add a commamd
    //add another command..
+   //add the third command
 }                                 
