@@ -6,6 +6,7 @@
 using namespace std;
 int main()
 {
+	//begin
 	string a;
 	while (getline(cin, a) && a != "0")
 	{
